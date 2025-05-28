@@ -1,0 +1,8 @@
+D:\PRN212\Baitap4\Baitap4\bin\Debug\Baitap4.exe.config
+D:\PRN212\Baitap4\Baitap4\bin\Debug\Baitap4.exe
+D:\PRN212\Baitap4\Baitap4\bin\Debug\Baitap4.pdb
+D:\PRN212\Baitap4\Baitap4\obj\Debug\Baitap4.csproj.AssemblyReference.cache
+D:\PRN212\Baitap4\Baitap4\obj\Debug\Baitap4.csproj.CoreCompileInputs.cache
+D:\PRN212\Baitap4\Baitap4\obj\Debug\Baitap4.exe
+D:\PRN212\Baitap4\Baitap4\obj\Debug\Baitap4.pdb
+D:\PRN212\Baitap4\Baitap4\obj\Debug\Baitap4.exe.config
