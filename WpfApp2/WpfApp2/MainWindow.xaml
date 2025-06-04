@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="20">
+        <!-- Nền khung nhập liệu -->
+        <Border Background="White" BorderBrush="#ccc" BorderThickness="1" CornerRadius="10" Padding="20" Width="400" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Grid>
+                <!-- Cấu trúc hàng/cột rõ ràng hơn -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Label và TextBox A -->
+                <Label x:Name="txtA" Content="A:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Foreground="#333"/>
+                <TextBox x:Name="txta" Grid.Row="0" Grid.Column="1" Margin="0,5" Width="200" Height="25" 
+                         TextChanged="___No_Name__TextChanged" />
+
+                <!-- Label và TextBox B -->
+                <Label x:Name="txtB" Content="B:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Foreground="#333"/>
+                <TextBox x:Name="txtb" Grid.Row="1" Grid.Column="1" Margin="0,5" Width="200" Height="25" 
+                         TextChanged="TextBox_TextChanged" />
+
+                <!-- Label và TextBox A+B -->
+                <Label x:Name="txtAB" Content="A + B:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Foreground="#333"/>
+                <TextBox x:Name="txtab" Grid.Row="2" Grid.Column="1" Margin="0,5" Width="200" Height="25" 
+                         IsReadOnly="True" Background="#eef" TextChanged="txtab_TextChanged" />
+
+                <!-- Nút Tính -->
+                <Button x:Name="txtTinh" Content="Tính" Grid.Row="3" Grid.ColumnSpan="2" Margin="0,15,0,0" Width="100" Height="30"
+                        HorizontalAlignment="Center" Background="#4a90e2" Foreground="White" FontWeight="Bold" BorderBrush="#357ABD"/>
+            </Grid>
+        </Border>
+
+    </Grid>
+</Window>
