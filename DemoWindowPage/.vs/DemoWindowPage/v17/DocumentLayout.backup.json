@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|d:\\prn212_github\\prn212\\demowindowpage\\demowindowpage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|d:\\prn212_github\\prn212\\demowindowpage\\demowindowpage\\page_02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page_02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|d:\\prn212_github\\prn212\\demowindowpage\\demowindowpage\\page_02.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page_02.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|d:\\prn212_github\\prn212\\demowindowpage\\demowindowpage\\page_01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page_01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|d:\\prn212_github\\prn212\\demowindowpage\\demowindowpage\\page_01.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page_01.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|d:\\prn212_github\\prn212\\demowindowpage\\demowindowpage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29732212-C8E0-462A-9A7F-2AF31F78590D}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page_02.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_02.xaml.cs",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page_02.xaml.cs",
+              "ToolTip": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_02.xaml.cs",
+              "RelativeToolTip": "DemoWindowPage\\Page_02.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:03:45.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page_01.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_01.xaml.cs",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page_01.xaml.cs",
+              "ToolTip": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_01.xaml.cs",
+              "RelativeToolTip": "DemoWindowPage\\Page_01.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:02:55.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page_02.xaml",
+              "DocumentMoniker": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_02.xaml",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page_02.xaml",
+              "ToolTip": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_02.xaml",
+              "RelativeToolTip": "DemoWindowPage\\Page_02.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T06:26:37.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page_01.xaml",
+              "DocumentMoniker": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_01.xaml",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page_01.xaml",
+              "ToolTip": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\Page_01.xaml",
+              "RelativeToolTip": "DemoWindowPage\\Page_01.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T06:28:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoWindowPage\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\MainWindow.xaml",
+              "RelativeToolTip": "DemoWindowPage\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T06:24:50.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoWindowPage\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Github\\PRN212\\DemoWindowPage\\DemoWindowPage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoWindowPage\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T06:24:48.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
